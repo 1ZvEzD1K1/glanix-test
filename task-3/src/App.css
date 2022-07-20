@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
+.handle {
+  display: flex;
+}
+
+.table {
+  margin-top: 10px;
+}
+
+.cells {
+  display: flex;
+}
+
+.cell {
+  padding: 10px 10px;
+  border: 2px solid #000000;
+}
+
+.index {
+  width: 20px;
+}
+
+.name {
+  width: 300px
+}
+
+.url {
+  width: 300px;
+}
+
+.domain {
+  width: 200px;
+}
+
+.country {
+  width: 80px;
+}
+
+.check {
+  width: 135px;
+}
